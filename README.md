@@ -1,1 +1,8 @@
-# ds_recomendador_movies
+PROJECT OF DATA SCIENCE 
+---
+
+DEPENDENCIES:
+- PANDAS
+- sklear
+- seaborn
+
